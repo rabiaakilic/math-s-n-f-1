@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\math sınıfı 1 1239\math sınıfı 1 1239\bin\Debug\math sınıfı 1 1239.exe.config
+C:\Users\User\source\repos\math sınıfı 1 1239\math sınıfı 1 1239\bin\Debug\math sınıfı 1 1239.exe
+C:\Users\User\source\repos\math sınıfı 1 1239\math sınıfı 1 1239\bin\Debug\math sınıfı 1 1239.pdb
+C:\Users\User\source\repos\math sınıfı 1 1239\math sınıfı 1 1239\obj\Debug\math sınıfı 1 1239.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\math sınıfı 1 1239\math sınıfı 1 1239\obj\Debug\math sınıfı 1 1239.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\math sınıfı 1 1239\math sınıfı 1 1239\obj\Debug\math_sınıfı_1_1239.txtKok.resources
+C:\Users\User\source\repos\math sınıfı 1 1239\math sınıfı 1 1239\obj\Debug\math_sınıfı_1_1239.Properties.Resources.resources
+C:\Users\User\source\repos\math sınıfı 1 1239\math sınıfı 1 1239\obj\Debug\math sınıfı 1 1239.csproj.GenerateResource.cache
+C:\Users\User\source\repos\math sınıfı 1 1239\math sınıfı 1 1239\obj\Debug\math sınıfı 1 1239.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\math sınıfı 1 1239\math sınıfı 1 1239\obj\Debug\math sınıfı 1 1239.exe
+C:\Users\User\source\repos\math sınıfı 1 1239\math sınıfı 1 1239\obj\Debug\math sınıfı 1 1239.pdb
